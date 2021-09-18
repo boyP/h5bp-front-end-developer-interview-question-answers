@@ -3,3 +3,4 @@ Sample answers to the [Front End developer questions](https://github.com/h5bp/Fr
 
 ## Javascript 
 1. [Event delegation](javascript/event-delegation.md)
+1. [How does `this` work?](javascript/this.md)
